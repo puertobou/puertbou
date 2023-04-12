@@ -1,6 +1,1 @@
-- :wave: Hello everyone!
-- 🙋 I am Rosa Puerto, a hard-working Data Scientist
-- 💻 Currently working as Data Analyst in Santander Global Tech
-- 📍 I am interested in applying AI to marketing, social media and commerce
-- 🌈 Also, interested in applying AI in the fields of health and sustainability
-- 📧 Contact: www.linkedin.com/in/boupuerto-rosa
+
